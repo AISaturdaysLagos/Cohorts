@@ -7,6 +7,6 @@
 [submodule "Cohort4"]
 	path = Cohort4
 	url = https://github.com/AISaturdaysLagos/Cohort4.git
-[submodule "Cohort_5"]
-	path = Cohort5
+[submodule "Cohort5"]
+	path = Cohort_5
 	url = https://github.com/AISaturdaysLagos/Cohort_5.git
