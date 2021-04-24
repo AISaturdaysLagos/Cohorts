@@ -10,3 +10,6 @@
 [submodule "Cohort5"]
 	path = Cohort5
 	url = https://github.com/AISaturdaysLagos/Cohort5.git
+[submodule "Cohort6"]
+	path = Cohort6
+	url = https://github.com/AISaturdaysLagos/Cohort6.git
