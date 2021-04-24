@@ -7,9 +7,6 @@
 [submodule "Cohort4"]
 	path = Cohort4
 	url = https://github.com/AISaturdaysLagos/Cohort4.git
-[submodule "Cohort6_Machine_Learning"]
-	path = Cohort6_Machine_Learning
-	url = https://github.com/AISaturdaysLagos/Cohort6_Machine_Learning.git
 [submodule "Cohort_5"]
 	path = Cohort_5
 	url = https://github.com/AISaturdaysLagos/Cohort_5.git
