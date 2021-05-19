@@ -20,5 +20,5 @@ $ git pull --recurse-submodules
 
 
 ### TO DO
-Automatically update all submodules
+Set up weekly build to automatically update all submodules
 
